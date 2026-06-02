@@ -56,6 +56,6 @@ This project helped me practice:
 
 ---
 
-## ** Credits**
+## **Credits**
 
 This guided project was created as part of SuperSimple.dev JavaScript learning course to practice DOM manipulation, event handling, and localStorage.
